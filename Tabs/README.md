@@ -36,7 +36,7 @@ TabGuardian is a Chrome extension designed to help you manage your browser tabs 
 
 ## Contributing
 
-We welcome contributions! If you have ideas for new features or improvements, please fork the repository and submit a pull request.
+I welcome contributions!! If you have ideas for new features or improvements, please fork the repository and submit a pull request.
 
 ## License
 
