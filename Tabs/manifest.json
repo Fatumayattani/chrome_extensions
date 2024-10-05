@@ -1,0 +1,14 @@
+{
+    "name": "TabGuardian",
+    "version": "1.0",
+    "manifest_version": 3,
+    "description": "Effortlessly Manage Your Tabs.",
+    "permissions": ["contextMenus", "tabs"],
+    "background": {
+      "service_worker": "tab.js"
+    },
+    "icons": {
+      "32": "tab_icon.png"
+    }
+  }
+  
